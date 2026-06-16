@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
             correct: "A"
         },
         {
-            question: "シャクヤクやナツツバキが誕生花なのは何月何日？",
+            question: "ナツツバキやベロニカが誕生花なのは何月何日？",
             options: { A: "2月16日", B: "4月16日", C: "6月16日" },
             correct: "C"
         },
