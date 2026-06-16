@@ -40,8 +40,8 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             question: "シャクヤクやナツツバキが誕生花なのは何月何日？",
-            options: { A: "12月12日", B: "12月13日", C: "12月14日" },
-            correct: "A"
+            options: { A: "2月16日", B: "4月16日", C: "6月16日" },
+            correct: "C"
         },
         {
             question: "和菓子の日（嘉祥の日）は何月何日？",
