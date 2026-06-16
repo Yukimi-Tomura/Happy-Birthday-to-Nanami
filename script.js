@@ -29,29 +29,29 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- クイズデータ ---
     const quizQuestions = [
         {
-            question: "12月12日は何の日？",
-            options: { A: "ダースの日", B: "ルックの日", C: "ポッキーの日" },
-            correct: "A"
-        },
-        {
-            question: "漢字の日は何月何日？",
-            options: { A: "12月2日", B: "12月12日", C: "12月22日" },
+            question: "6月16日は何の日？",
+            options: { A: "「月化粧」の日", B: "「堂島ロール」の日", C: "「呼吸チョコ」の日" },
             correct: "B"
         },
         {
-            question: "ハナキリンやデンファレが誕生花なのは何月何日？",
+            question: "麦とろの日は何月何日？",
+            options: { A: "6月16日", B: "6月18日", C: "6月20日" },
+            correct: "A"
+        },
+        {
+            question: "シャクヤクやナツツバキが誕生花なのは何月何日？",
             options: { A: "12月12日", B: "12月13日", C: "12月14日" },
             correct: "A"
         },
         {
-            question: "5本指ソックスの日は何月何日？",
-            options: { A: "5月5日", B: "10月10日", C: "12月12日" },
-            correct: "C"
+            question: "和菓子の日（嘉祥の日）は何月何日？",
+            options: { A: "2月12日", B: "6月16日", C: "9月19日" },
+            correct: "B"
         },
         {
             question: "12月12日は何の日？",
             options: { A: "ひまりちゃんの誕生日", B: "ななみちゃんの誕生日", C: "ちおちゃんの誕生日" },
-            correct: "C"
+            correct: "B"
         }
     ];
 
